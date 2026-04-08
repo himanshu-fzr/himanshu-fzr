@@ -53,22 +53,16 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true"/>
-
----
-
 ## 🏆 Achievements
 
 - ✅ Built multiple real-world data projects  
