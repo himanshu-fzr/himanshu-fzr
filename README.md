@@ -1,81 +1,68 @@
-<!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Himanshu%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+# 👨‍💻 Himanshu Sharma
 
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
-<h3 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Problem Solver</h3>
-
-<!-- 🔗 Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshusharmafzr">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:Himanshush0013@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/himanshu-fzr">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+**BCA Graduate | AI & ML Enthusiast | Data Analyst**  
+🎓 Bachelor of Computer Applications | Python • Machine Learning • Advanced Excel • SQL
 
 ---
 
-## 🧠 About Me
+### Hi there 👋  
 
-- 🔍 Data-driven mindset with strong analytical thinking  
-- 📊 Skilled in **Python, SQL, Power BI, Excel**  
-- 🤖 Knowledge of **Machine Learning & Predictive Models**  
-- 📈 Passionate about turning data into business insights  
-- 💼 Actively seeking **Data Analyst / ML roles**
+I’m a **BCA graduate** passionate about **Artificial Intelligence, Machine Learning, and turning data into insights**.  
+I love building end-to-end ML solutions and analyzing business data with Excel.  
 
 ---
 
-## 🛠 Tech Stack
+### 🔭 Featured Projects (ML + Analytics)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,git,github" />
-<br>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel">
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 📊 Netflix Data Analysis
-- Analyzed content trends & user patterns  
-- Created visual dashboards  
-- Tools: Python, Pandas, Matplotlib  
-
-### 🍔 Swiggy Sales Dashboard
-- Built interactive Excel dashboard  
-- Identified sales & performance trends  
-
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true"/>
-## 🏆 Achievements
-
-- ✅ Built multiple real-world data projects  
-- ✅ Strong foundation in Data Analysis & ML  
-- ✅ Continuous learner in AI & analytics  
+| Project | Tech Stack | Description |
+|--------|-----------|-------------|
+| 🛒 **Big Data Mart Sales Forecasting** | Python, Pandas, Scikit-learn | Built regression models to predict sales for a mart using historical data. |
+| 🎬 **Netflix Content Analysis** | Python, Seaborn, Matplotlib | Analyzed Netflix dataset to find trends in content type, country, and release year. |
+| 💰 **Loan Prediction System** | Python, Logistic Regression, Streamlit | Classified loan approval status based on applicant data (accuracy ~85%). |
+| ☕ **Coffee Shop Sales Dashboard** | Advanced Excel (Pivot, Power Query) | Created interactive dashboard with KPIs, monthly trends, and product analysis. |
 
 ---
 
-## 📫 Contact Me
+### 📌 What I’m working on / learning
 
-- 📧 Email: Himanshush0013@gmail.com  
-- 💼 LinkedIn:https://www.linkedin.com/in/himanshusharmafzr
+- 🌱 Currently learning **Generative AI & LLMs** (GPT, LangChain)  
+- 🤝 Looking to collaborate on **ML + Excel automation projects**  
+- 💬 Ask me about **Python, ML algorithms, Data cleaning, Excel dashboards**  
+- 📫 Reach me: `himanshush0013@gmail.com`  
+- 🔗 All projects: [github.com/yourusername](https://github.com/himanshu-fzr)  
+- ✍️ Blog (coming soon)  
 
 ---
 
-⭐ *“Turning Data into Decisions”*
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshusharmafzr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/himanshu-fzr)
+
+---
+
+> 💡 *“Data is the new oil – I refine it with ML & Excel.”*
