@@ -29,7 +29,7 @@ I love building end-to-end ML solutions and analyzing business data with Excel.
 - 🤝 Looking to collaborate on **ML + Excel automation projects**  
 - 💬 Ask me about **Python, ML algorithms, Data cleaning, Excel dashboards**  
 - 📫 Reach me: `himanshush0013@gmail.com`  
-- 🔗 All projects: [github.com/yourusername](https://github.com/himanshu-fzr)  
+- 🔗 All projects: https://github.com/himanshu-fzr 
 - ✍️ Blog (coming soon)  
 
 ---
