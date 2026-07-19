@@ -16,7 +16,7 @@ I turn raw data into decisions — from cleaning messy datasets to building and 
 | [Loan Approval Prediction](https://github.com/himanshu-fzr/loan-approval-prediction) | Python, Scikit-learn, SMOTE | 82% accuracy; handled class imbalance & skewed data |
 | [Big DataMart Sales Prediction](https://github.com/himanshu-fzr/Big-DataMart-Sales-Problem) | Python, Gradient Boosting, XGBoost | R² 0.68, RMSE 19.76 across 8 model comparisons |
 | [Coffee Shop Sales Dashboard](https://github.com/himanshu-fzr/Coffee-Shop-Sales-Excel-Dashboard) | Advanced Excel (Power Query, Pivot Tables) | Interactive KPI dashboard; informed 15% staffing optimization |
-
+| [HR Analytics Dashboard](https://github.com/himanshu-fzr/HR-Analytics-Dashboard) | Advanced Excel (Pivot Tables, Slicers, Dynamic Formulas) | 16% attrition analyzed across 1,480 employees; found 68% tied to lowest salary slab |
 ---
 
 ### 📌 What I’m working on / learning
