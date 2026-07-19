@@ -1,25 +1,21 @@
 # 👨‍💻 Himanshu Sharma
 
 **BCA Graduate | AI & ML Enthusiast | Data Analyst**  
-🎓 Bachelor of Computer Applications | Python • Machine Learning • Advanced Excel • SQL
+ 
+Data Analyst & Aspiring ML/Data Scientist | Python · SQL · Machine Learning · Advanced Excel
 
----
-
-### Hi there 👋  
-
-I’m a **BCA graduate** passionate about **Artificial Intelligence, Machine Learning, and turning data into insights**.  
-I love building end-to-end ML solutions and analyzing business data with Excel.  
+I turn raw data into decisions — from cleaning messy datasets to building and tuning predictive models. Currently open to entry-level Data Analyst / Data Scientist roles.
 
 ---
 
 ### 🔭 Featured Projects (ML + Analytics)
 
-| Project | Tech Stack | Description |
-|--------|-----------|-------------|
-| 🛒 **Big Data Mart Sales Forecasting** | Python, Pandas, Scikit-learn | Built regression models to predict sales for a mart using historical data. |
-| 🎬 **Netflix Content Analysis** | Python, Seaborn, Matplotlib | Analyzed Netflix dataset to find trends in content type, country, and release year. |
-| 💰 **Loan Prediction System** | Python, Logistic Regression, Streamlit | Classified loan approval status based on applicant data (accuracy ~85%). |
-| ☕ **Coffee Shop Sales Dashboard** | Advanced Excel (Pivot, Power Query) | Created interactive dashboard with KPIs, monthly trends, and product analysis. |
+| Project | Tech Stack | Result |
+|---|---|---|
+| [Spam Message Classifier](https://github.com/himanshu-fzr/spam-message-classifier) | Python, NLTK, TF-IDF, Scikit-learn | 98.2% accuracy on 83K+ messages (NLP) |
+| [Loan Approval Prediction](https://github.com/himanshu-fzr/loan-approval-prediction) | Python, Scikit-learn, SMOTE | 82% accuracy; handled class imbalance & skewed data |
+| [Big DataMart Sales Prediction](https://github.com/himanshu-fzr/big-datamart-sales-prediction) | Python, Gradient Boosting, XGBoost | R² 0.68, RMSE 19.76 across 8 model comparisons |
+| [Coffee Shop Sales Dashboard](https://github.com/himanshu-fzr/coffee-shop-sales-dashboard) | Advanced Excel (Power Query, Pivot Tables) | Interactive KPI dashboard; informed 15% staffing optimization |
 
 ---
 
