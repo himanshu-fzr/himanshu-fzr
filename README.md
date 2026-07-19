@@ -14,7 +14,7 @@ I turn raw data into decisions — from cleaning messy datasets to building and 
 |---|---|---|
 | [Spam Message Classifier](https://github.com/himanshu-fzr/spam-message-classifier) | Python, NLTK, TF-IDF, Scikit-learn | 98.2% accuracy on 83K+ messages (NLP) |
 | [Loan Approval Prediction](https://github.com/himanshu-fzr/loan-approval-prediction) | Python, Scikit-learn, SMOTE | 82% accuracy; handled class imbalance & skewed data |
-| [Big DataMart Sales Prediction](https://github.com/himanshu-fzr/big-datamart-sales-prediction) | Python, Gradient Boosting, XGBoost | R² 0.68, RMSE 19.76 across 8 model comparisons |
+| [Big DataMart Sales Prediction](https://github.com/himanshu-fzr/Big-DataMart-Sales-Problem) | Python, Gradient Boosting, XGBoost | R² 0.68, RMSE 19.76 across 8 model comparisons |
 | [Coffee Shop Sales Dashboard](https://github.com/himanshu-fzr/coffee-shop-sales-dashboard) | Advanced Excel (Power Query, Pivot Tables) | Interactive KPI dashboard; informed 15% staffing optimization |
 
 ---
